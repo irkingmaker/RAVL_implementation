@@ -18,6 +18,6 @@ fragmentation_bestfit_ravl.c - C implementation of ravl with best fit and fragme
 
 Every file should be given input of a csv file of insertions and deletions.
 
-Every file outputs the preorder of the final tree and parameters on which performance
-of the tree can be compared like - Average length, Maximum length, Number of nodes, 
+Every file outputs the preorder traversal of the final tree and parameters on which
+performance of the tree can be compared like - Average length, Maximum length, Number of nodes, 
 Number of rotations, Balance updates.
